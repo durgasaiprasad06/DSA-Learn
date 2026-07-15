@@ -1,3 +1,9 @@
+/**
+* Minimum Platforms
+* Link : https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1
+* Topic : Greedy
+*/
+
 import java.util.*;
 
 class Solution {
