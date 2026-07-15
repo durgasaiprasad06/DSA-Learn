@@ -1,3 +1,9 @@
+/**
+ * Binary Search Implementation
+ * Link : https://www.geeksforgeeks.org/problems/who-will-win-1587115621/1
+ * Topic : Binary Search
+ */
+
 import java.util.Scanner;
 
 class Main {
